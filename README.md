@@ -7,3 +7,7 @@ Input:
    r, annual rate of interest
 Output
    simple interest = p*t*r
+
+# Getx
+## route management
+   https://github.com/jonataslaw/getx/blob/master/documentation/en_US/route_management.md
